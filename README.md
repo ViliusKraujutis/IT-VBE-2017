@@ -1,4 +1,4 @@
-# Informacinių Technologijų Valstybinio Brandos Egzamino programavimo užduočių sprendimai
+# Informacinių technologijų valstybinio brandos egzamino programavimo užduočių sprendimai
 Informacinės technologijos - 2017 m. valstybinio brandos egzamino **programavimo užduočių** sprendimai
 
 ## Egzamino užduotis
