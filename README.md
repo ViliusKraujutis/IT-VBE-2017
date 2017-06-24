@@ -1,6 +1,8 @@
 # Informacinių Technologijų Valstybinio Brandos Egzamino programavimo užduočių sprendimai
 Informacinės technologijos - 2017 m. valstybinio brandos egzamino **programavimo užduočių** sprendimai
 
+## Egzamino užduotis
+Egzamino užduotį galima paskaityti [čia](http://nec.lt/failai/6996_IT-VBE-1_2017-GALUTINE.pdf) (arba [štai čia yra lokali egzamino užduoties PDF kopija](https://github.com/ViliusKraujutis/IT-VBE-2017/blob/master/uzduotis/6996_IT-VBE-1_2017-GALUTINE.pdf))
 
 ## Antroji programavimo užduotis
 ### Sprendimai skirtingomis programavimo kalbomis
