@@ -6,6 +6,6 @@ Egzamino užduotį galima paskaityti [čia](http://nec.lt/failai/6996_IT-VBE-1_2
 
 ## Antroji programavimo užduotis
 ### Sprendimai skirtingomis programavimo kalbomis
-* [C++](https://github.com/ViliusKraujutis/IT-VBE-2017/blob/master/cpp/u2-solution.cpp)
+* [C++](/cpp/u2-solution.cpp)
 * Pascal - prašau padarykite kas nors [Pull Request](https://help.github.com/articles/about-pull-requests/)
-* Kotlin - comming soon...
+* [Kotlin](/kotlin/it-vbe-2017-uzd2-solution.kt)
